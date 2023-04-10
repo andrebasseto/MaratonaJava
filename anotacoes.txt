@@ -1,0 +1,29 @@
+* Aula 00
+* Aula 01 - O que esperar do curso
+* Aula 02 - Como java funciona
+############################
+-------------APP------------ > Aplicação
+-------------JVM------------ > Máquina Virtual
+Windows     Linux       Mac
+############################
+
+Código fonte 'arquivo.java' é compilado para um 'arquivo.class'
+esse programa é executado pela 'JVM' em qualquer sistema operacional
+
+o 'javac' é o responsavel por compilar o código fonte
+
+- JDK - Java Development Kit
+- JRE - Java Runtime Environment
+
+código fonte 'arquivo.java' 
+bite code 'arquivo.class'
+
+* Aula 03 - Fazendo o download da JDK 15
+sudo apt install openjdk-17-jdk
+java --version
+
+* Aula 04 - Configurando variaveis de ambiente
+* Aula 05 - Executando compilação manualmente
+javac arquivo.java
+
+
