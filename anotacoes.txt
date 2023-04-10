@@ -26,3 +26,7 @@ java --version
 * Aula 05 - Executando compilação manualmente
 javac OlaMundo.java > Compilar
 java OlaMundo       > executar
+
+* Aula 06 - Download da IDE IntelliJ Community
+* Aula 07 - Conhecendo a IDE IntelliJ Community
+
