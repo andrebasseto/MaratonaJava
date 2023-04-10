@@ -24,6 +24,5 @@ java --version
 
 * Aula 04 - Configurando variaveis de ambiente
 * Aula 05 - Executando compilação manualmente
-javac arquivo.java
-
-
+javac OlaMundo.java > Compilar
+java OlaMundo       > executar
